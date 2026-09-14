@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "floodaffetion": "your-github-username"
-    },
-    "records": {
-        "TXT": "openai-site-verification=p7eNVFN2UXpFwYf1Ki8DOv3-J1V2UUMzA-GyfQAHhWg"
-    }
+  "owner": {
+    "username": "floodaffection"
+  },
+  "records": {
+    "TXT": "openai-site-verification=p7eNVFN2UXpFwYf1Ki8DOv3-J1V2UUMzA-GyfQAHhWg"
+  }
 }
