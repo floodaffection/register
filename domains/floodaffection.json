@@ -1,0 +1,8 @@
+{
+    "owner": {
+        "floodaffection": "your-github-username"
+    },
+    "records": {
+        "custom-domains.chatgpt.site": "example.org"
+    }
+}
